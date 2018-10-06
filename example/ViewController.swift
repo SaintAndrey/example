@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     }
     
     func fitch1() {
-        print("conflict2")
+        print("conflict")
     }
 
 }
