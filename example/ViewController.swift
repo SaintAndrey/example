@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     func function1() {
         
     }
+    
+    func fitch1() {
+        
+    }
 
 }
 
