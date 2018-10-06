@@ -23,6 +23,10 @@ class ViewController: UIViewController {
     func fitch1() {
         print("conflict")
     }
+    
+    func loval() {
+        
+    }
 
 }
 
