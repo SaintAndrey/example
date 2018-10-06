@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     }
     
     func fitch1() {
-        
+        print("fitch1")
     }
 
 }
