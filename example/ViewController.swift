@@ -16,7 +16,8 @@ class ViewController: UIViewController {
     }
 
     func function1() {
-        
+        print("function1")
+        print("bugfixed")
     }
     
     func fitch1() {
